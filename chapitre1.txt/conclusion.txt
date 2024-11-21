@@ -1,2 +1,0 @@
-echo "Conclusion :
-En conclusion, le rapport a permis de démontrer l'importance des commandes Git." > conclusion.txt

@@ -1,2 +1,0 @@
-echo "Introduction :
-Ce rapport présente les résultats des commandes Git. " > introduction.txt
